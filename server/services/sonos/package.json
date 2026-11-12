@@ -13,6 +13,6 @@
     "arm64"
   ],
   "dependencies": {
-    "@svrooij/sonos": "^2.5.0"
+    "@svrooij/sonos": "^2.7.0"
   }
 }
